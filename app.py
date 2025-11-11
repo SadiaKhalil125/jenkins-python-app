@@ -1,5 +1,5 @@
 def main():
-    #hello from myside!
+    #hello from myside
     print("Hello from jenkins CI/CD with Python!")
 
 if __name__ == "__main__":
